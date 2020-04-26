@@ -45,7 +45,12 @@ Using the training data I was able to build a prediction model to predict which 
 
 The next step is to submit the predicted response on the test set to kaggle to see how good the model performs. However, I still have to figure out why I can’t get a connection with the kaggle server.
 
-## 5. Acknowledgement
+## 5. Improvements
+At least the following improvements can be done:
+- Try different subset of features to see the performance of the model, 
+- Double check attribute types.
+
+## 6. Acknowledgement
 Thanks to Arvato Financial Solutions for teh provided data set.
 
 Thanks to Udacity for interesting nanodegree content and projects.
