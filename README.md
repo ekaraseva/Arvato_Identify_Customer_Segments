@@ -45,6 +45,8 @@ Using the training data I was able to build a prediction model to predict which 
 
 The next step is to submit the predicted response on the test set to kaggle to see how good the model performs. However, I still have to figure out why I can’t get a connection with the kaggle server.
 
+The link to article: https://medium.com/@lena.karaseva/identify-customers-for-a-mailout-campaign-94a09146444d
+
 ## 5. Improvements
 At least the following improvements can be done:
 - Try different subset of features to see the performance of the model, 
